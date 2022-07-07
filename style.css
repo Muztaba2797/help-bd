@@ -191,27 +191,6 @@ p{
 
 
 
-.switch-input:checked + .switch-label-on ~ .switch-selection {
-  left: 114px;
-}
-
-.switch-selection {
-  display: block;
-  position: absolute;
-  z-index: 1;
-  top: 2px;
-  left: 2px;
-  width: 49%;
-  height: 22px;
-  background: #65bd63;
-  border-radius: 3px;
-  background-color: #C1D82F;
-  
-  -webkit-transition: left 0.15s ease-out;
-  -moz-transition: left 0.15s ease-out;
-  -o-transition: left 0.15s ease-out;
-  transition: left 0.15s ease-out;
-}
 
 
 
